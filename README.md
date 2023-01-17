@@ -1,2 +1,2 @@
 # codingExamples
-Some examples of code that I wrote for classes.
+Some examples of python and R code that I wrote for classes.
